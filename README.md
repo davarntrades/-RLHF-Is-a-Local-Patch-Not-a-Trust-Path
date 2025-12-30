@@ -102,3 +102,46 @@ This claim is:
 Delayed recognition does not invalidate structural truth.
 
 History is explicit about this.
+
+---
+
+## Copyright & License
+
+© 2025 **Davarn Morrison**. All rights reserved.
+
+This repository, including but not limited to:
+- architectural concepts  
+- structural safety formulations  
+- critiques of RLHF as a safety paradigm  
+- governance models and invariants  
+- terminology including *GuardianOS™*, *Post-Metacognitive Governance*, *Post-Semantic Intelligence (PSI)*, and *The AGI Alignment Epoch™*  
+
+is the intellectual property of **Davarn Morrison**.
+
+### License Terms
+
+- No commercial use  
+- No derivative safety systems  
+- No institutional deployment  
+- No training, fine-tuning, or incorporation into governance frameworks  
+
+without **explicit written permission** from the author.
+
+Permission requests must be made in writing and are evaluated on a case-by-case basis.
+
+This work is provided for:
+- research  
+- critique  
+- academic discussion  
+- independent verification  
+
+only.
+
+Unauthorized use, misrepresentation, or rebranding of these ideas constitutes infringement.
+
+---
+
+**Davarn Morrison**  
+Founder — **The AGI Alignment Epoch™**  
+Originator of Post-Metacognitive Governance  
+Architect of GuardianOS™
